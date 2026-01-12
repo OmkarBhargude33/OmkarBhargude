@@ -1,7 +1,9 @@
 # Hello 👋, I'm Omkar Mahadev Bhargude
 
-- I am a third-year Computer Science student with a strong interest in system programming and backend development. Learning to building efficient software, understanding how systems work   internally, and writing clean, maintainable code. Currently, I am strengthening my skills in data structures and algorithms while learning Spring Boot and modern web technologies.
-
+- I am a third-year Computer Science student with a strong interest in system programming and backend development.
+- Learning to building efficient software, understanding how systems work internally, and writing clean and maintainable code.
+- Currently, I am strengthening my skills in data structures and algorithms while learning Spring Boot and modern web technologies.
+- Goal, My current goal is to become a full-stack devloper with strong system programmning.
 ---
 
 ### Technical Skill :
