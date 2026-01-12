@@ -28,7 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
   
-  
+- **Version Control** :
+  <p align="left">
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=000000" alt="github" width="40" height="40"/>&nbsp;
+    
 
 ---
 
