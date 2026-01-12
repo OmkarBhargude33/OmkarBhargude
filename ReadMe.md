@@ -1,5 +1,5 @@
 # Hello 👋, I'm Omkar Mahadev Bhargude
-- I'm a 3rd-year Computer Science student passionate about building efficient software.
+- I'm 3rd-year Computer Science student passionate about building efficient software.
 - 💻 Proficient in C, C++, Java and exploring JavaScript, Spring Boot & Web Development. 
 - 🧩 Interested in solving problems, implementing data structures & algorithms, and writing clean code. 
 - 🌱 Currently learning Spring Boot, Win32 SDK, and refining my DSA skills.
