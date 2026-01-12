@@ -5,8 +5,10 @@
 - 🌱 Currently learning Spring Boot, Win32 SDK, and refining my DSA skills.
 - 🎯 Goal: Become a Full-Stack Developer with strong system programming knowledge
 
-### Skills
-## Programming Languages :
+---
+
+### Technical Skills :
+- **Programming Languages** :
 <p align="left">
 <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="cpp" width="40" height="40"/>&nbsp;
