@@ -24,7 +24,7 @@
 
 - **Backend Technologies** :
   <p align="left">
-   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="springboot" width="36"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="springboot" width="36"/>&nbsp;
   </p>
 
 - **Database Technologies** :
