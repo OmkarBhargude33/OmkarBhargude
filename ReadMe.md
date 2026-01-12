@@ -31,16 +31,13 @@
 
 [View Project](https://github.com/Omkarbhargude/Customised-Virtual-File-System-VirtualCFS-)
 
-<img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Customised Virtual File System (CVFS)  :-" width="300"/>
-
 ---
 
 ### Generalised Data Structure Library
 
-<img src="https://img.icons8.com/?size=100&id=1BQnj5PgHxw2&format=png&color=000000" alt="Generalised Data Structure Library" width="300"/>
-
-The Generalised Data Structure Library is a reusable C++ library that provides object-oriented implementations of both linear and non-linear data structures. It offers ready-to-use functionalities for fundamental as well as advanced operations, designed in a generic way using C++ templates so they can be reused with any data type.
-The library follows clean OOP principles, emphasizing modularity, extensibility, and reusability, making it ideal for both academic learning and real-world application development.
+- The Generalised Data Structure Library is a reusable C++ library that provides object-oriented implementations of both linear and non-linear data structures. It offers ready-to-use
+  functionalities for fundamental as well as advanced operations, designed in a generic way using C++ templates so they can be reused with any data type.
+- The library follows clean OOP principles, emphasizing modularity, extensibility, and reusability, making it ideal for both academic learning and real-world application development.
 
 [View Project](https://github.com/Omkarbhargude/Generalised-Data-Structure-Library)
 
@@ -48,11 +45,9 @@ The library follows clean OOP principles, emphasizing modularity, extensibility,
 
 ### FilePacker-Unpacker
 
-<img src="https://img.icons8.com/?size=100&id=lAIm4m2pMwLJ&format=png&color=000000" alt="FilePacker-Unpacker" width="300"/>
-
-A Java-based file utility tool that allows packing multiple files into a single archive and unpacking them back with all metadata preserved.
-To enhance security, the packed file is encrypted, and only authorized users can decrypt and extract the data.
-The project also features a Swing-based GUI for easy and user-friendly interaction.
+- A Java-based file utility tool that allows packing multiple files into a single archive and unpacking them back with all metadata preserved.
+- To enhance security, the packed file is encrypted, and only authorized users can decrypt and extract the data.
+- The project also features a Swing-based GUI for easy and user-friendly interaction.
 
 [View Project](https://github.com/Omkarbhargude/FilePacker-Unpacker)
 
