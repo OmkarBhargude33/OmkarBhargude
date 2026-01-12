@@ -29,7 +29,7 @@
 
 - **Database Technologies** :
   <p align="left>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="36"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" alt="mysql" width="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="36"/>&nbsp;
   </p>
   
