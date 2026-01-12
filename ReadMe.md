@@ -14,8 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="36"/>&nbsp;
   </p>
 
 - **Web Technologies** :
@@ -27,22 +25,29 @@
 - **Backend Technologies** :
   <p align="left">
    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="springboot" width="36"/>&nbsp;
+  </p>
 
+- **Database Technologies** :
+  <p align="left>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="36"/>&nbsp;
+  </p>
+  
 - **Version Control** :
   <p align="left">
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="36"/>&nbsp;
   <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=000000" alt="github" width="36"/>&nbsp;
-
+  </p>
 - **Platform** :
   <p align="left">
   <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="windows" width="36"/>&nbsp;
   <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="36"/>&nbsp;
-
+  </p>
 
   
 ---
 
-## Projects
+## 🚀 Projects
 
 ### Customised Virtual File System (CVFS)  :-
 
