@@ -1,15 +1,75 @@
-<h1 align="center">Hi 👋, I'm Omkar Mahadev Bhargude</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hello 👋, I'm omkar mahadev bhargude
+### Software Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+I'm a 3rd-year Computer Science student passionate about building efficient software.
+💻 Proficient in C, C++, Java and exploring JavaScript, Spring Boot & Web Development. 
+🧩 Interested in solving problems, implementing data structures & algorithms, and writing clean code. 
+🌱 Currently learning Spring Boot, Win32 SDK, and refining my DSA skills.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Omkarbhargude](https://github.com/Omkarbhargude)
+🎯 Goal: Become a Full-Stack Developer with strong system programming knowledge
 
-- 📫 How to reach me **omkarbhargude29@gmail.com**
+## Skills
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omkarbhargude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarbhargude" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/411060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="411060" height="30" width="40" /></a>
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="cpp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 </p>
+
+## Projects
+
+### Customised Virtual File System (CVFS)  :-
+
+<img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Customised Virtual File System (CVFS)  :-" width="300"/>
+
+This project is a custom implementation of a Virtual File System (VFS) that simulates the core functionality of the Linux file system. It is built entirely in C, with its own custom shell to interact with the virtual environment. The project provides a practical understanding of system calls, file handling, memory management, and OS internals.
+
+[View Project](https://github.com/Omkarbhargude/Customised-Virtual-File-System-VirtualCFS-)
+
+---
+
+### Generalised Data Structure Library
+
+<img src="https://img.icons8.com/?size=100&id=1BQnj5PgHxw2&format=png&color=000000" alt="Generalised Data Structure Library" width="300"/>
+
+The Generalised Data Structure Library is a reusable C++ library that provides object-oriented implementations of both linear and non-linear data structures. It offers ready-to-use functionalities for fundamental as well as advanced operations, designed in a generic way using C++ templates so they can be reused with any data type.
+The library follows clean OOP principles, emphasizing modularity, extensibility, and reusability, making it ideal for both academic learning and real-world application development.
+
+[View Project](https://github.com/Omkarbhargude/Generalised-Data-Structure-Library)
+
+---
+
+### FilePacker-Unpacker
+
+<img src="https://img.icons8.com/?size=100&id=lAIm4m2pMwLJ&format=png&color=000000" alt="FilePacker-Unpacker" width="300"/>
+
+A Java-based file utility tool that allows packing multiple files into a single archive and unpacking them back with all metadata preserved.
+To enhance security, the packed file is encrypted, and only authorized users can decrypt and extract the data.
+The project also features a Swing-based GUI for easy and user-friendly interaction.
+
+[View Project](https://github.com/Omkarbhargude/FilePacker-Unpacker)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=OmkarBhargude&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBhargude&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarBhargude&theme=default" alt="GitHub Streak" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarBhargude&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
