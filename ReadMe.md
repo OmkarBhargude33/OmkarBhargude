@@ -19,6 +19,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 </p>
 
+- **Web Technologies** :
+  <p align="left">
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width=40 height="40"/>&nbsp;
+
 ## Projects
 
 ### Customised Virtual File System (CVFS)  :-
