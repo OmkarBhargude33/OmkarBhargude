@@ -31,7 +31,9 @@
 
 ### Customised Virtual File System (CVFS)  :-
 
-- This project is a custom implementation of a Virtual File System (VFS) that simulates the core functionality of the Linux file system. It is built entirely in C, with its own custom      shell to interact with the virtual environment. The project provides a practical understanding of system calls, file handling, memory management, and OS internals.
+- This project is a custom implementation of a Virtual File System (VFS) that simulates the core functionality of the Linux file system.
+- It is built entirely in C, with its own custom shell to interact with the virtual environment.
+- The project provides a practical understanding of system calls, file handling, memory management, and OS internals.
 
 [View Project](https://github.com/Omkarbhargude/Customised-Virtual-File-System-VirtualCFS-)
 
@@ -39,8 +41,8 @@
 
 ### Generalised Data Structure Library
 
-- The Generalised Data Structure Library is a reusable C++ library that provides object-oriented implementations of both linear and non-linear data structures. It offers ready-to-use
-  functionalities for fundamental as well as advanced operations, designed in a generic way using C++ templates so they can be reused with any data type.
+- The Generalised Data Structure Library is a reusable C++ library that provides object-oriented implementations of both linear and non-linear data structures.
+- It offers ready-to-use functionalities for fundamental as well as advanced operations, designed in a generic way using C++ templates so they can be reused with any data type.
 - The library follows clean OOP principles, emphasizing modularity, extensibility, and reusability, making it ideal for both academic learning and real-world application development.
 
 [View Project](https://github.com/Omkarbhargude/Generalised-Data-Structure-Library)
