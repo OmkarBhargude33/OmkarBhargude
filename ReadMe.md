@@ -6,43 +6,57 @@
 - My current goal is to become a full-stack developer with strong system programmning.
 ---
 
-### Technical Skill :
-- **Programming Languages** :
-  <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" width="36"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="cpp" width="36"/&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="36"/>&nbsp;
-  </p>
+### 🛠 Technical Skills
 
-- **Web Technologies** :
-  <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="36"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" width="36"/>&nbsp;
-  </p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- **Backend Technologies** :
-  <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="springboot" width="36"/>&nbsp;
-  </p>
+**Programming Languages**
+<p>
+  <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="36"/>
+  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
+</p>
 
-- **Database Technologies** :
-  <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" alt="html" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="36"/>&nbsp;
-  </p>
-  
-- **Version Control** :
-  <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="36"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=000000" alt="github" width="36"/>&nbsp;
-  </p>
-- **Platform** :
-  <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="windows" width="36"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="36"/>&nbsp;
-  </p>
+**Web Technologies**
+<p>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="36"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="36"/>
+</p>
+
+    </td>
+
+    <td valign="top" width="50%">
+
+**Backend Technologies**
+<p>
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="36"/>
+</p>
+
+**Databases**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/>
+</p>
+
+**Version Control**
+<p>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="36"/>
+  <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=000000" width="36"/>
+</p>
+
+**Platforms**
+<p>
+  <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" width="36"/>
+  <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" width="36"/>
+</p>
+
+    </td>
+  </tr>
+</table>
 
   
 ---
