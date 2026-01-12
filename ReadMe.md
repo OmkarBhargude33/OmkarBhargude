@@ -5,46 +5,13 @@
 - Currently, I am strengthening my skills in data structures and algorithms while learning Spring Boot and modern web technologies.
 - My current goal is to become a full-stack developer with strong system programmning.
 ---
-
-<h3>🛠 Technical Skills</h3>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-      <b>Programming Languages</b><br><br>
-      <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="36"/>
-      <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="36"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
-
-      <br><br><b>Web Technologies</b><br><br>
-      <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="36"/>
-      <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="36"/>
-
-    </td>
-
-    <td valign="top" width="50%">
-
-      <b>Backend Technologies</b><br><br>
-      <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="36"/>
-
-      <br><br><b>Databases</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/>
-
-      <br><br><b>Version Control</b><br><br>
-      <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="36"/>
-      <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=000000" width="36"/>
-
-      <br><br><b>Platforms</b><br><br>
-      <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" width="36"/>
-      <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" width="36"/>
-
-    </td>
-  </tr>
-</table>
+## Technical Skill : 
+- **Programming Languages**: C, C++, Java, Python, JavaScript  
+- **Web Technologies**: HTML, CSS  
+- **Backend**: Spring Boot  
+- **Databases**: MySQL, MongoDB  
+- **Version Control & Tools**: Git, GitHub  
+- **Platforms**: Linux, Windows
 
 ---
 
