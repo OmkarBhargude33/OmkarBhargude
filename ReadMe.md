@@ -22,6 +22,10 @@
 - **Web Technologies** :
   <p align="left">
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width=40 height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" width=40 height="40"/>&nbsp;
+  </p>
+
+---
 
 ## Projects
 
