@@ -53,12 +53,6 @@
 
 ---
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=OmkarBhargude&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBhargude&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarBhargude&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
