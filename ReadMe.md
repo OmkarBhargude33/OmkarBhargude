@@ -24,11 +24,22 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" width="36"/>&nbsp;
   </p>
 
+- **Backend Technologies** :
+  <p align="left">
+   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="springboot" width="36"/>&nbsp;
+
 - **Version Control** :
   <p align="left">
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="36"/>&nbsp;
   <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=000000" alt="github" width="36"/>&nbsp;
-    
+
+- **Platform** :
+  <p align="left">
+  <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="windows" width="36"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="36"/>&nbsp;
+
+
+  
 ---
 
 ## Projects
