@@ -29,11 +29,11 @@
 
 ### Customised Virtual File System (CVFS)  :-
 
-<img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Customised Virtual File System (CVFS)  :-" width="300"/>
-
-This project is a custom implementation of a Virtual File System (VFS) that simulates the core functionality of the Linux file system. It is built entirely in C, with its own custom shell to interact with the virtual environment. The project provides a practical understanding of system calls, file handling, memory management, and OS internals.
+- This project is a custom implementation of a Virtual File System (VFS) that simulates the core functionality of the Linux file system. It is built entirely in C, with its own custom      shell to interact with the virtual environment. The project provides a practical understanding of system calls, file handling, memory management, and OS internals.
 
 [View Project](https://github.com/Omkarbhargude/Customised-Virtual-File-System-VirtualCFS-)
+
+<img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Customised Virtual File System (CVFS)  :-" width="300"/>
 
 ---
 
