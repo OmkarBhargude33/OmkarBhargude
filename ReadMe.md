@@ -11,7 +11,7 @@
 - **Programming Languages** :
   <p align="left">
   <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" width="36"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="cpp" width="36"/&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
